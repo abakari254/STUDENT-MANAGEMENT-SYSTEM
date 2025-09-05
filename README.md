@@ -30,7 +30,7 @@ Storage: Text files (users.txt, students.txt, activity_log.txt)
 
 Clone this repository:
 
-git clone https://github.com/your-username/student-management-system.git
+git clone https://github.com/abakari254/student-management-system.git
 cd student-management-system
 
 
