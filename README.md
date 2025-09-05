@@ -1,6 +1,6 @@
-Student Management System
+#Student Management System
 
-A Python-based application designed to simplify how educational institutions manage student records. It provides user authentication, student record management, and reporting features through a simple text-based storage system.
+A Simple Python-based application designed to simplify how educational institutions manage student records.it is a capstone project for the RITA Africa Python fundamentals course. It provides user authentication, student record managemenT(CRUD), and reporting features and file based data persistence.
 
 🚀 Features
 
@@ -12,11 +12,12 @@ A Python-based application designed to simplify how educational institutions man
 
 📊 Reporting Module – generates insights for better decision-making
 
+
 🛠 Tech Stack
 
-Language: Python
+Language: Python 3.x
 
-Modules Used: os, getpass, datetime
+Modules Used: os, getpass(for hidden password entry), datetime(for logging timestamps)
 
 Storage: Text files (users.txt, students.txt, activity_log.txt)
 
