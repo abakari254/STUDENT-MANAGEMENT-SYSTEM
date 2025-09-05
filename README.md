@@ -45,6 +45,7 @@ Login: Enter username & password to access system.
 Manage Records: Add, update, or delete student details.
 
 View Logs: Review recorded user actions for accountability.
+log out:when done activity will be logged off.
 
 📌 Future Improvements
 
