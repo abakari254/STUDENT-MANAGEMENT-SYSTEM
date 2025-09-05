@@ -58,5 +58,7 @@ Role-based access (Admin/Teacher)
 🤝 Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+
 ***Acknowledgement:The project is a capstone project for the RITA Africa Python fundamentals course bootcamp.Special thank you to Josephine Nyenpandi.
 
