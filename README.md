@@ -1,6 +1,6 @@
 #Student Management System
 
-A Simple Python-based application designed to simplify how educational institutions manage student records.it is a capstone project for the RITA Africa Python fundamentals course. It provides user authentication, student record managemenT(CRUD), and reporting features and file based data persistence.
+A Simple Python-based application designed to simplify how educational institutions manage student records.It is a capstone project for the RITA Africa Python fundamentals course. It provides user authentication, student record managemenT(CRUD), and reporting features and file based data persistence.
 
 🚀 Features
 
@@ -58,7 +58,5 @@ Role-based access (Admin/Teacher)
 🤝 Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+***Acknowledgement:The project is a capstone project for the RITA Africa Python fundamentals course bootcamp.Special thank you to Josephine Nyenpandi.
 
-⚙️ How to Run the Project
-
-Clone this repository:
